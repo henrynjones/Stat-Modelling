@@ -1,0 +1,1 @@
+This repository is a compilation of work completed for MA340 statistical modelling techniques. Homework and and lab assignemnts for this class were completed with Andrew Pinkham @andrewcolepinkham. The markdown files allow for viewing.
